@@ -1,0 +1,6 @@
+{
+  "name": "PokéDex",
+  "description": "Explorador de Pokémon con catálogo PokeAPI, buscador en tiempo real, filtros por tipo, estadísticas detalladas y colección de favoritos con Room Database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
